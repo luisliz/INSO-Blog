@@ -22,7 +22,7 @@ title: INSO4101 Class Blog
 email: luis.liz@upr.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This website is made for the purpose of INSO4101 class. 
-baseurl: "/INSO-Blog/" # the subpath of your site, e.g. /blog
+baseurl: "/INSO-Blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: luisliz 
 
