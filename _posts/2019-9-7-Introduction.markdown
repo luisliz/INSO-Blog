@@ -1,0 +1,6 @@
+My name is Luis Liz and I am a Computer Scince Engineering student in the University of Puerto Rico. After taking many fundamental classes in everything related to programming and engineering in general. I am finishing my concentration courses and this is one of those courses.
+{: style="text-align: justify"}
+As part of the classwork required by the class is a blog where we can talk about everything that we have learned. Throughout the semester I will be posting about things we learn in the class and my personal view on them. Although this material is for the class it will hopefully help someone out that might be taking the class in another campus or university. 
+{: style="text-align: justify"}
+The class presented is Introduction to Software Engineering. In this class instead of learning about the programming or engineering aspects of our career we will have a more managerial and abstract look at the projects we will work on. The end product of any type of project in this field is most likely code, but a project can't be started with code from the beginning. A planning and exploration phases are needed to deliver a product the most productive and best way possible. Where everyone is on the same page and ready to work on their part. This is what I hope to accomplish in this course.   
+{: style="text-align: justify"}
