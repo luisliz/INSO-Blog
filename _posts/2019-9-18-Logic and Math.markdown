@@ -1,0 +1,4 @@
+Algebra and mathematical logic are the more formal ways of defining what wants to be built. Math is universal and with rather small background in engineering and programming a person could analyze the models that are presented. The logic allows the program to be checked for any basic logical problems that may arrise. This may be a simple boolean but sometimes the underlying algorithm is not logically or mathenatically possible. Utilizing this tool helps mitigate this problem  
+{: style="text-align: justify"}
+Since math is fundamental in every part of our life it is essential. Some of the ways the logic and math may be used is by making propositional logic or using previously established axioms. In addition, any mathematical explanation should not be overly complicated and should be appropriately quantifiable. Every technical aspect has some underlying math and logic built into it even if it is not explicitly written. 
+{: style="text-align: justify"}
