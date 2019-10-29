@@ -1,0 +1,6 @@
+When working on complex projects topics have to be divided. This is where modularization is essential. If a project is too big and everything is mixed together. This will be impossible to digest and even create confusion when making all the specifications. It is recommended that topics are divided by domain and then into sub-domains or subjects that can allow it to be digested easier and written. 
+{: style="text-align: justify"}
+This can also be useful if we treat it like we treat programs. When an application is being coded up a single person doesn't work in every area. Each person is specialized in a topic and this can allow them to extensively work in this. The same way a domain expert can take a module after agreeing on the major ideas and make all the details for the specific module. This avoids a couple of people conflicting with their information because each team or person only has to work on one part and not everyone in every other part. 
+{: style="text-align: justify"}
+Although modularization might not be a large topic by itself. It is an underlying thing to do in general and always be in the back of the mind of anyone working on the project to not step on anyone's toes. 
+{: style="text-align: justify"}
