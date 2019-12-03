@@ -1,4 +1,5 @@
 organize.sh
+finishedArticles.sh
 _site
 .sass-cache
 .jekyll-cache

@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: INSO4101 Class Blog
+title: INSO4101 Learning Journal 
 email: luis.liz@upr.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A blog for what was learned in the INSO4101 class in UPRM. 
